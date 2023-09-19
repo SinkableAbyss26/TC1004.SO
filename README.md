@@ -1,2 +1,2 @@
-# TC1004.SO
-Sistemas operativos
+# Comienzo del curso de Sistemas Operativos
+Sistemas Operativos
